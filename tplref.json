@@ -2,18 +2,22 @@
 	"mestemplates": [
 		{
 			"category": "team",
+			"code": "3b43c9fb48da5691de528eb6e114b5c0",
 			"url": "https://vakcin.com/assets/images/MIX_transparent.png"
 		},
 		{
 			"category": "team",
+			"code": "bc28e5d490ff74357c512ab6a4828d5d",
 			"url": "https://vakcin.com/assets/images/products/Kvas_Original_x12_mini.png"
 		},
 		{
 			"category": "team",
+			"code": "bc28e5d490ff74357c672ab6a4828d5d",
 			"url": "https://vakcin.com/assets/images/KvasBaginnature_1024x1024@2x.jpg"
 		},
 		{
 			"category": "pricing",
+			"code": "bc28e5d490ff74357c5je7b6a4828d5d",
 			"url": "https://vakcin.com/assets/images/products/Kvas_Lemon_x12_mini.png"
 		}
 	]
