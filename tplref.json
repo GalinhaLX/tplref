@@ -1,0 +1,20 @@
+{
+	"mestemplates": [
+		{
+			"category": "team",
+			"url": "https://vakcin.com/assets/images/MIX_transparent.png"
+		},
+		{
+			"category": "team",
+			"url": "https://vakcin.com/assets/images/products/Kvas_Original_x12_mini.png"
+		},
+		{
+			"category": "team",
+			"url": "https://vakcin.com/assets/images/KvasBaginnature_1024x1024@2x.jpg"
+		},
+		{
+			"category": "pricing",
+			"url": "https://vakcin.com/assets/images/products/Kvas_Lemon_x12_mini.png"
+		}
+	]
+}
