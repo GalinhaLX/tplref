@@ -2,6 +2,12 @@
 	"mestemplates": [
 		{
 			"visibility": "true",
+			"category": "team",
+			"code": "3456789",
+			"url": "https://vakcin.com/assets/images/MIX_transparent.png"
+		},
+		{
+			"visibility": "true",
 			"category": "pricing",
 			"code": "bc11e5d490ff74357c512ab6a4828d5d",
 			"url": "https://vakcin.com/assets/images/products/Kvas_Lemon_x12_mini.png"
