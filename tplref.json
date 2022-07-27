@@ -70,7 +70,8 @@
 			"url": "/tplsnew/main_title_divs.html"
 		},
 		{
-			"visibility": false
+			"visibility": false,
+			"url": "/tplsnew/"
 		}
 	],
 	"caterogyFilter": "team"
