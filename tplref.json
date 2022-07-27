@@ -52,6 +52,7 @@
 		{
 			"visibility": true,
 			"category": "hero",
+			"type": "rj_hero",
 			"code": "hero2",
 			"url": "main_title_2.html"
 		}
