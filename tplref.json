@@ -54,7 +54,7 @@
 			"category": "hero",
 			"type": "rj_hero",
 			"code": "hero2",
-			"url": "main_title_2.html"
+			"url": "/tplsnew/main_title_2.html"
 		},
 		{
 			"visibility": true,
