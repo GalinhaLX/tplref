@@ -48,6 +48,11 @@
 			"type": "rj_hero",
 			"code": "1",
 			"url": "/tplsnew/main_title.html"
+		},
+		{
+			"visibility": true,
+			"category": "hero",
+			"url": "main_title_2.html"
 		}
 	],
 	"caterogyFilter": "team"
