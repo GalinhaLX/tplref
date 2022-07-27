@@ -55,6 +55,13 @@
 			"type": "rj_hero",
 			"code": "hero2",
 			"url": "main_title_2.html"
+		},
+		{
+			"visibility": true,
+			"category": "hero",
+			"type": "rj_hero",
+			"code": "hero is danger",
+			"url": "main_title_is-danger.html"
 		}
 	],
 	"caterogyFilter": "team"
