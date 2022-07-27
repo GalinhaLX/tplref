@@ -5,14 +5,14 @@
 			"code": "bc11e5d490ff74357c512ab6a4828d5d",
 			"url": "/tplsnew/OKhero.html",
 			"visibility": true,
-			"type": "rj_nav"
+			"type": "rj_section_container"
 		},
 		{
 			"category": "team",
 			"code": "bc28e5d490ff74357c512ab6a4828d5d",
 			"url": "/tplsnew/OKhero2.html",
 			"visibility": true,
-			"type": "rj_nav"
+			"type": "rj_section_container"
 		},
 		{
 			"category": "pricing",
