@@ -45,6 +45,7 @@
 		{
 			"visibility": true,
 			"category": "hero",
+			"type": "rj_hero",
 			"code": "1",
 			"url": "/tplsnew/main_title.html"
 		}
