@@ -1,7 +1,7 @@
 {
 	"mestemplates": [
 		{
-			"visibility": "false",
+			"visibility": "true",
 			"category": "team",
 			"code": "3456789",
 			"url": "https://vakcin.com/assets/images/MIX_transparent.png"
