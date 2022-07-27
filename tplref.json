@@ -3,37 +3,47 @@
 		{
 			"category": "pricing",
 			"code": "bc11e5d490ff74357c512ab6a4828d5d",
-			"url": "https://vakcin.com/assets/images/products/Kvas_Lemon_x12_mini.png"
+			"url": "https://vakcin.com/assets/images/products/Kvas_Lemon_x12_mini.png",
+			"visibility2": false
 		},
 		{
 			"category": "team",
 			"code": "bc28e5d490ff74357c512ab6a4828d5d",
-			"url": "https://vakcin.com/assets/images/products/Kvas_Original_x12_mini.png"
+			"url": "https://vakcin.com/assets/images/products/Kvas_Original_x12_mini.png",
+			"visibility2": false
 		},
 		{
 			"category": "team",
 			"code": "3456789",
-			"url": "https://vakcin.com/assets/images/MIX_transparent.png"
+			"url": "https://vakcin.com/assets/images/MIX_transparent.png",
+			"visibility2": false
 		},
 		{
 			"category": "team",
 			"code": "e93d4e11c96f21abca4e593dcc1117e2",
-			"url": "https://vakcin.com/assets/images/KvasBaginnature_1024x1024@2x.jpg"
+			"url": "https://vakcin.com/assets/images/KvasBaginnature_1024x1024@2x.jpg",
+			"visibility2": false
 		},
 		{
 			"category": "pricing",
 			"code": "fac4b42872f9bdfd7653763740a62a19",
-			"url": "https://vakcin.com/assets/images/products/Kvas_Lemon_x12_mini.png"
+			"url": "https://vakcin.com/assets/images/products/Kvas_Lemon_x12_mini.png",
+			"visibility2": true,
+			"visibility": "true"
 		},
 		{
 			"category": "pricing",
 			"code": "fac4b42872f9bdfd7653763740a62a12",
-			"url": "https://vakcin.com/assets/images/KvasBaginnature_1024x1024@2x.jpg"
+			"url": "https://vakcin.com/assets/images/KvasBaginnature_1024x1024@2x.jpg",
+			"visibility2": false,
+			"visibility": "true"
 		},
 		{
 			"category": "invisible",
 			"code": "345678",
-			"url": "url none"
+			"url": "url none",
+			"visibility2": false,
+			"visibility": "false"
 		}
 	]
 }
