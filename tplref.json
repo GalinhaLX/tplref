@@ -5,7 +5,7 @@
 			"code": "bc11e5d490ff74357c512ab6a4828d5d",
 			"url": "https://vakcin.com/assets/images/products/Kvas_Lemon_x12_mini.png",
 			"visibility2": true,
-			"visibility": "true"
+			"visibility": true
 		},
 		{
 			"category": "team",
@@ -19,35 +19,35 @@
 			"code": "3456789",
 			"url": "https://vakcin.com/assets/images/MIX_transparent.png",
 			"visibility2": true,
-			"visibility": "true"
+			"visibility": true
 		},
 		{
 			"category": "team",
 			"code": "e93d4e11c96f21abca4e593dcc1117e2",
 			"url": "https://vakcin.com/assets/images/KvasBaginnature_1024x1024@2x.jpg",
 			"visibility2": true,
-			"visibility": "true"
+			"visibility": true
 		},
 		{
 			"category": "pricing",
 			"code": "fac4b42872f9bdfd7653763740a62a19",
 			"url": "https://vakcin.com/assets/images/products/Kvas_Lemon_x12_mini.png",
 			"visibility2": true,
-			"visibility": "true"
+			"visibility": true
 		},
 		{
 			"category": "pricing",
 			"code": "fac4b42872f9bdfd7653763740a62a12",
 			"url": "https://vakcin.com/assets/images/KvasBaginnature_1024x1024@2x.jpg",
 			"visibility2": true,
-			"visibility": "true"
+			"visibility": true
 		},
 		{
 			"category": "invisible",
 			"code": "345678",
 			"url": "url none",
 			"visibility2": false,
-			"visibility": "false"
+			"visibility": false
 		}
 	]
 }
