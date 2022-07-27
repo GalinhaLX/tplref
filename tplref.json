@@ -4,28 +4,28 @@
 			"category": "pricing",
 			"code": "bc11e5d490ff74357c512ab6a4828d5d",
 			"url": "/tplsnew/OKhero.html",
-			"visibility": true,
+			"visibility": false,
 			"type": "rj_section_container"
 		},
 		{
 			"category": "team",
 			"code": "bc28e5d490ff74357c512ab6a4828d5d",
 			"url": "/tplsnew/OKhero2.html",
-			"visibility": true,
+			"visibility": false,
 			"type": "rj_section_container"
 		},
 		{
 			"category": "pricing",
 			"code": "fac4b42872f9bdfd7653763740a62a19",
 			"url": "/tplsnew/OKhero2.html",
-			"visibility": true,
+			"visibility": false,
 			"type": "rj_section_container"
 		},
 		{
 			"category": "team",
 			"code": "3456789",
 			"url": "/tplsnew/OKhero.html",
-			"visibility": true,
+			"visibility": false,
 			"type": "rj_section_container"
 		},
 		{
