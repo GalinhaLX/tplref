@@ -67,7 +67,7 @@
 			"visibility": true,
 			"category": "hero",
 			"type": "rj_hero",
-			"url": "main_title_divs.html"
+			"url": "/tplsnew/main_title_divs.html"
 		}
 	],
 	"caterogyFilter": "team"
