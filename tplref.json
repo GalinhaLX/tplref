@@ -36,6 +36,13 @@
 			"type": "rj_section_container"
 		},
 		{
+			"visibility": true,
+			"category": "hero",
+			"type": "rj_hero",
+			"code": "1",
+			"url": "/tplsnew/main_title.html"
+		},
+		{
 			"category": "pricing",
 			"code": "fac4b42872f9bdfd7653763740a62a12",
 			"url": "https://vakcin.com/assets/images/KvasBaginnature_1024x1024@2x.jpg",
@@ -48,13 +55,6 @@
 			"url": "url none",
 			"visibility": false,
 			"type": "rj_section_container"
-		},
-		{
-			"visibility": true,
-			"category": "hero",
-			"type": "rj_hero",
-			"code": "1",
-			"url": "/tplsnew/main_title.html"
 		},
 		{
 			"visibility": true,
