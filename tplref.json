@@ -1,7 +1,8 @@
 {
 	"mestemplates": [
 		{
-			"visibility": "true"
+			"visibility": "true",
+			"category": "pricing"
 		},
 		{
 			"visibility": "true",
