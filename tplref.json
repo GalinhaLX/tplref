@@ -66,7 +66,7 @@
 		{
 			"visibility": true,
 			"category": "hero",
-			"type": "rj_hero",
+			"type": "rj_main_title",
 			"url": "/tplsnew/main_title_divs.html"
 		},
 		{
