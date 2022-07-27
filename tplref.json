@@ -40,14 +40,14 @@
 			"code": "fac4b42872f9bdfd7653763740a62a12",
 			"url": "https://vakcin.com/assets/images/KvasBaginnature_1024x1024@2x.jpg",
 			"visibility": false,
-			"type": "rj_nav"
+			"type": "rj_section_container"
 		},
 		{
 			"category": "invisible",
 			"code": "345678",
 			"url": "url none",
 			"visibility": false,
-			"type": "rj_nav"
+			"type": "rj_section_container"
 		},
 		{
 			"visibility": true,
