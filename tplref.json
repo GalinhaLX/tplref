@@ -64,7 +64,8 @@
 			"url": "/tplsnew/main_title_is-danger.html"
 		},
 		{
-			"visibility": false
+			"visibility": false,
+			"url": "main_title_divs.html"
 		}
 	],
 	"caterogyFilter": "team"
