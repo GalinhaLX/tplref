@@ -16,19 +16,19 @@
 			"category": "team",
 			"code": "bc28e5d490ff74357c512ab6a4828d5d",
 			"url": "https://vakcin.com/assets/images/products/Kvas_Original_x12_mini.png",
-			"visibility": false
+			"visibility": true
 		},
 		{
 			"category": "team",
 			"code": "3456789",
 			"url": "https://vakcin.com/assets/images/MIX_transparent.png",
-			"visibility": false
+			"visibility": true
 		},
 		{
 			"category": "team",
 			"code": "e93d4e11c96f21abca4e593dcc1117e2",
 			"url": "https://vakcin.com/assets/images/KvasBaginnature_1024x1024@2x.jpg",
-			"visibility": false
+			"visibility": true
 		},
 		{
 			"category": "pricing",
