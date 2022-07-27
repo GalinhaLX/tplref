@@ -47,9 +47,6 @@
 			"category": "hero",
 			"code": "1",
 			"url": "/tplsnew/main_title.html"
-		},
-		{
-			"visibility": false
 		}
 	],
 	"caterogyFilter": "team"
