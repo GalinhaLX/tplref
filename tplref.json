@@ -64,7 +64,9 @@
 			"url": "/tplsnew/main_title_is-danger.html"
 		},
 		{
-			"visibility": false,
+			"visibility": true,
+			"category": "hero",
+			"type": "rj_hero",
 			"url": "main_title_divs.html"
 		}
 	],
