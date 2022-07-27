@@ -45,7 +45,11 @@
 		{
 			"visibility": true,
 			"category": "hero",
-			"code": "1"
+			"code": "1",
+			"url": "/tplsnew/main_title.html"
+		},
+		{
+			"visibility": false
 		}
 	],
 	"caterogyFilter": "team"
