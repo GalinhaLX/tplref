@@ -2,7 +2,7 @@
 	"mestemplates": [
 		{
 			"visibility": "true",
-			"category": "team",
+			"category": "pricing",
 			"code": "3b43c9fb48da5691de528eb6e114b5c0",
 			"url": "https://vakcin.com/assets/images/MIX_transparent.png"
 		},
@@ -23,6 +23,12 @@
 			"category": "pricing",
 			"code": "fac4b42872f9bdfd7653763740a62a19",
 			"url": "https://vakcin.com/assets/images/products/Kvas_Lemon_x12_mini.png"
+		},
+		{
+			"visibility": "true",
+			"category": "pricing",
+			"code": "fac4b42872f9bdfd7653763740a62a12",
+			"url": "https://vakcin.com/assets/images/KvasBaginnature_1024x1024@2x.jpg"
 		}
 	]
 }
