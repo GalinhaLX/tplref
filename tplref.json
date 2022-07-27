@@ -19,14 +19,14 @@
 			"code": "fac4b42872f9bdfd7653763740a62a19",
 			"url": "/tplsnew/OKhero2.html",
 			"visibility": true,
-			"type": "rj_nav"
+			"type": "rj_section_container"
 		},
 		{
 			"category": "team",
 			"code": "3456789",
 			"url": "/tplsnew/OKhero.html",
 			"visibility": true,
-			"type": "rj_nav"
+			"type": "rj_section_container"
 		},
 		{
 			"category": "team",
