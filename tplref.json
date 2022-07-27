@@ -28,13 +28,13 @@
 			"category": "pricing",
 			"code": "fac4b42872f9bdfd7653763740a62a19",
 			"url": "https://vakcin.com/assets/images/products/Kvas_Lemon_x12_mini.png",
-			"visibility": true
+			"visibility": false
 		},
 		{
 			"category": "pricing",
 			"code": "fac4b42872f9bdfd7653763740a62a12",
 			"url": "https://vakcin.com/assets/images/KvasBaginnature_1024x1024@2x.jpg",
-			"visibility": false
+			"visibility": true
 		},
 		{
 			"category": "invisible",
