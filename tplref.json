@@ -43,7 +43,8 @@
 			"visibility": false
 		},
 		{
-			"visibility": true
+			"visibility": true,
+			"category": "hero"
 		}
 	],
 	"caterogyFilter": "team"
