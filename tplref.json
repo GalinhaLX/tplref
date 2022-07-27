@@ -1,6 +1,8 @@
 {
 	"mestemplates": [
-		{},
+		{
+			"visibility": "true"
+		},
 		{
 			"visibility": "true",
 			"category": "team",
