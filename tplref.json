@@ -28,7 +28,7 @@
 			"category": "team",
 			"code": "e93d4e11c96f21abca4e593dcc1117e2",
 			"url": "https://vakcin.com/assets/images/KvasBaginnature_1024x1024@2x.jpg",
-			"visibility": false
+			"visibility": true
 		},
 		{
 			"category": "pricing",
@@ -42,5 +42,6 @@
 			"url": "url none",
 			"visibility": false
 		}
-	]
+	],
+	"caterogyFilter": "team"
 }
