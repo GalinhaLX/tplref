@@ -70,7 +70,9 @@
 			"url": "/tplsnew/main_title_divs.html"
 		},
 		{
-			"visibility": false,
+			"visibility": true,
+			"category": "hero",
+			"type": "rj_hero",
 			"url": "/tplsnew/main_title_is-classic_small.html"
 		}
 	],
