@@ -1,5 +1,7 @@
 {
 	"mestemplates": [
+		{},
+		{},
 		{
 			"visibility": "true",
 			"category": "pricing",
