@@ -62,6 +62,9 @@
 			"type": "rj_hero",
 			"code": "hero is danger",
 			"url": "/tplsnew/main_title_is-danger.html"
+		},
+		{
+			"visibility": false
 		}
 	],
 	"caterogyFilter": "team"
