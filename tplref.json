@@ -84,7 +84,8 @@
 		},
 		{
 			"visibility": false,
-			"type": "rj_nav"
+			"type": "rj_nav",
+			"url": "/tplsnew/main_title_btn.html"
 		}
 	]
 }
