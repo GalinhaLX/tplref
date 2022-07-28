@@ -83,9 +83,10 @@
 			"url": "/tplsnew/main_title_btn.html"
 		},
 		{
-			"visibility": false,
+			"visibility": true,
+			"category": "Title",
 			"type": "rj_nav",
-			"url": "/tplsnew/main_title_btn.html"
+			"url": "/tplsnew/boot1-mavo.html"
 		}
 	]
 }
