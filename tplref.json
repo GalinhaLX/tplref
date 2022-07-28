@@ -81,6 +81,10 @@
 			"type": "rj_main_title",
 			"code": "45678",
 			"url": "/tplsnew/main_title_btn.html"
+		},
+		{
+			"visibility": false,
+			"type": "rj_nav"
 		}
 	]
 }
