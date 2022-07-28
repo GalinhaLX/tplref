@@ -77,7 +77,9 @@
 		},
 		{
 			"visibility": false,
-			"type": "rj_nav"
+			"type": "rj_main_title",
+			"code": "45678",
+			"url": "/tplsnew/main_title_btn.html"
 		}
 	]
 }
