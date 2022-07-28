@@ -85,7 +85,8 @@
 		{
 			"visibility": true,
 			"category": "Title",
-			"type": "rj_nav",
+			"type": "rj_main_title",
+			"code": "AAA",
 			"url": "/tplsnew/boot1-mavo.html"
 		}
 	]
