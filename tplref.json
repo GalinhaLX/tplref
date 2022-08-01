@@ -96,9 +96,10 @@
 			"url": "/tplsnew/hero_nav1.html"
 		},
 		{
-			"visibility": false,
+			"visibility": true,
 			"category": "nav",
-			"type": "rj_nav"
+			"type": "rj_nav",
+			"url": "/tplsnew/hero_nav2.html"
 		}
 	]
 }
