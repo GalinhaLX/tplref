@@ -88,6 +88,10 @@
 			"type": "rj_main_title",
 			"code": "AAA",
 			"url": "/tplsnew/boot1-mavo.html"
+		},
+		{
+			"visibility": false,
+			"type": "rj_nav"
 		}
 	]
 }
