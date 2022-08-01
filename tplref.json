@@ -93,7 +93,11 @@
 			"visibility": false,
 			"category": "nav",
 			"type": "rj_nav",
-			"url": "/tplsnew/OKhero2.html"
+			"url": "/tplsnew/hero_nav1.html"
+		},
+		{
+			"visibility": false,
+			"type": "rj_nav"
 		}
 	]
 }
