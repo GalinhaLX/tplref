@@ -97,6 +97,7 @@
 		},
 		{
 			"visibility": false,
+			"category": "nav",
 			"type": "rj_nav"
 		}
 	]
