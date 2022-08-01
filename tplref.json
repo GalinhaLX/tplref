@@ -94,6 +94,10 @@
 			"category": "nav",
 			"type": "rj_nav",
 			"url": "/tplsnew/hero_nav1.html"
+		},
+		{
+			"visibility": false,
+			"type": "rj_nav"
 		}
 	]
 }
