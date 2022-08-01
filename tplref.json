@@ -98,7 +98,7 @@
 		{
 			"visibility": true,
 			"category": "nav",
-			"type": "rj_nav",
+			"type": "rj_hero",
 			"url": "/tplsnew/hero_nav2.html"
 		}
 	]
