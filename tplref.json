@@ -36,7 +36,7 @@
 			"type": "rj_section_container"
 		},
 		{
-			"visibility": true,
+			"visibility": false,
 			"category": "hero",
 			"type": "rj_hero",
 			"code": "1",
@@ -46,7 +46,7 @@
 			"category": "pricing",
 			"code": "fac4b42872f9bdfd7653763740a62a12",
 			"url": "https://vakcin.com/assets/images/KvasBaginnature_1024x1024@2x.jpg",
-			"visibility": true,
+			"visibility": false,
 			"type": "rj_section_container"
 		},
 		{
@@ -57,14 +57,14 @@
 			"type": "rj_section_container"
 		},
 		{
-			"visibility": true,
+			"visibility": false,
 			"category": "Presentation équipe",
 			"type": "rj_main_title",
 			"code": "hero2",
 			"url": "/tplsnew/main_title_2.html"
 		},
 		{
-			"visibility": true,
+			"visibility": false,
 			"category": "Attract",
 			"type": "rj_hero",
 			"url": "/tplsnew/main_title_divs.html"
@@ -76,32 +76,38 @@
 			"url": "/tplsnew/main_title_is-classic_small.html"
 		},
 		{
-			"visibility": true,
+			"visibility": false,
 			"category": "Title",
 			"type": "rj_main_title",
 			"code": "45678",
 			"url": "/tplsnew/main_title_btn.html"
 		},
 		{
-			"visibility": true,
+			"visibility": false,
 			"category": "Title",
 			"type": "rj_main_title",
 			"code": "AAA",
 			"url": "/tplsnew/boot1-mavo.html"
 		},
 		{
-			"visibility": true,
+			"visibility": false,
 			"category": "nav",
 			"type": "rj_nav",
 			"url": "/tplsnew/hero_nav1.html",
 			"page": "Principale"
 		},
 		{
-			"visibility": true,
+			"visibility": false,
 			"category": "nav",
 			"type": "rj_nav",
 			"url": "/tplsnew/hero_nav2.html",
 			"page": "Principale"
+		},
+		{
+			"visibility": true,
+			"category": "Hero",
+			"type": "rj_hero",
+			"url": "t/hero/hero_small_1.html"
 		}
 	]
 }
