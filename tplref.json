@@ -93,13 +93,15 @@
 			"visibility": true,
 			"category": "nav",
 			"type": "rj_nav",
-			"url": "/tplsnew/hero_nav1.html"
+			"url": "/tplsnew/hero_nav1.html",
+			"page": "Principale"
 		},
 		{
 			"visibility": true,
 			"category": "nav",
 			"type": "rj_hero",
-			"url": "/tplsnew/hero_nav2.html"
+			"url": "/tplsnew/hero_nav2.html",
+			"page": "Principale"
 		}
 	]
 }
